@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trying to learn libGDX and Game development<br>Lower than a beginner at 3D Animation<br>Looking into Computer Architecture
+- Trying to learn libGDX and Game development<br>- Lower than a beginner at 3D Animation<br>- Looking into Computer Architecture
 
 
 ## 🌐 Socials:
